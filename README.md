@@ -69,14 +69,6 @@
 
 ---
 
-## 🚀 My Learning Roadmap
-
-```
-✅ NumPy → 🚀 Pandas → 📊 Matplotlib → 📈 Power BI → 🤖 Machine Learning → 🧠 Deep Learning → ✨ AI
-```
-
----
-
 ## 📂 Featured Projects
 
 ### 🤖 ECHO AI Assistant
@@ -116,29 +108,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Ankush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankush826921-crypto&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ankush826921-crypto&theme=radical&hide_border=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush826921-crypto&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=ankush826921-crypto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
-
----
 
 ## 🌐 Connect With Me
 
